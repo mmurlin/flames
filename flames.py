@@ -1,6 +1,6 @@
 import curses
 
-from src.cursesboard import CursesFlameBoard
+from boards.cursesboard import CursesFlameBoard
 
 def main():
     # Setup curses.
